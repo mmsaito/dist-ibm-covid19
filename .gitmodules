@@ -1,6 +1,6 @@
 [submodule "ibm-saitohm-f90"]
 	path = ibm-saitohm-f90
-	url = ./ibm-saitohm-f90
+	url = https://github.com/mmsaito/ibm-saitohm-f90
 [submodule "make-city"]
 	path = make-city
-	url = ./make-city/
+	url = https://github.com/mmsaito/make-city
